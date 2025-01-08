@@ -105,10 +105,10 @@ main{
 }
 .about-items{
     display: flex;
-    justify-content: space-around
-
-
+    justify-content: space-around;
+    align-items:;
+    
 }
 .item-description{
-    font-weight: ;
+    font-weight: bold;
 }
